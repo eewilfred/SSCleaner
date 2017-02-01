@@ -173,11 +173,11 @@
           "_anchor": "facebook-comments-block-a",
           "_params": {
             "postsNumber": "3",
-            "bgImage": "@PROJECT_PATH@/assets/images/comments-bg.jpg",
+            "bgImage": "qrc:/web/app/themes/mobirise3/components/_images/desert2.jpg",
             "bgImageRadio": true,
             "bgColor": "#fff",
             "bgColorRadio": false,
-            "overlay": true,
+            "overlay": false,
             "overlayOpacity": 0.6,
             "overlayColor": "#3d8eb9",
             "socialFacebook": true,
@@ -417,7 +417,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/15826396-1851588915056646-6003211654697270384-n-171x1281.png",
+              "src": "@PROJECT_PATH@/assets/images/15826396-1851588915056646-6003211654697270384-n-171x1286.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",

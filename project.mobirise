@@ -88,8 +88,7 @@
             "paddingBottom": "3",
             "images": [
               {
-                "tags": "Jwellery",
-                "playVideo": false,
+                "tags": "IOT Projects",
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",

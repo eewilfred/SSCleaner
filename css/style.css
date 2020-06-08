@@ -299,6 +299,8 @@ nav#cbp-spmenu-s2 h3 {
 .social-icons span.drib{
 	background-position:-79px 0px;
 }
+
+
 .social-icons span.fb:hover{
 	background-position:11px -50px;
 }
@@ -814,5 +816,20 @@ button#showRightPush {
 .footer p {
   font-size: 0.8em;
   text-align:center;
+}
+
+.subscribeFb{
+	background:#1d1130;
+	padding:4em 0 5.5em 0;
+}
+
+subscribeFb div {
+  margin: 0 0px;
+}
+.centerFb {
+  margin: auto;
+  width: 60%;
+  border: 3px solid #73AD21;
+  padding: 10px;
 }
 }

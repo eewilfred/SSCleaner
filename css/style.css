@@ -86,7 +86,7 @@ nav#cbp-spmenu-s2 h3 {
 }
 .banner-info {
   margin-top: 10em;
-  width: 46%;
+  width:75%;
   display: inline-block;
 }
 .banner-info h1{
@@ -130,7 +130,7 @@ nav#cbp-spmenu-s2 h3 {
 .feature-info p{
 	font-size:1.2em;
 	font-weight:600;
-	color:#312c3b;
+	color:#efedf3;
 	width:60%;
 	margin:0 auto;
 	line-height:1.3em;
@@ -163,7 +163,7 @@ nav#cbp-spmenu-s2 h3 {
 .feature-grid p{
 	font-size:1em;
 	font-weight:500;
-	color:#3d3946;
+	color:#ffffff;
 	width:80%;	
 	line-height:1.3em;
 }
@@ -306,6 +306,36 @@ nav#cbp-spmenu-s2 h3 {
 	background-position:-29px -51px;
 }
 .social-icons span.drib:hover{
+	background-position:-79px -52px;
+}
+
+.social-icons2 a{
+	display:inline-block;
+	margin-top:12px;
+}
+.social-icons2 span{
+	background:url(../images/social2.png) no-repeat 0px 0px;
+	width:42px;
+	height:36px;
+	display:inline-block;
+	margin:0 5px;
+}
+.social-icons2 span.fb{
+	background-position:11px 0px;
+}
+.social-icons2 span.tweet{
+	background-position:-29px 0px;
+}
+.social-icons2 span.drib{
+	background-position:-79px 0px;
+}
+.social-icons2 span.fb:hover{
+	background-position:11px -50px;
+}
+.social-icons2 span.tweet:hover{
+	background-position:-29px -51px;
+}
+.social-icons2 span.drib:hover{
 	background-position:-79px -52px;
 }
 /*--subscribe--*/

@@ -200,7 +200,8 @@ nav#cbp-spmenu-s2 h3 {
 }
 /*--screen-shots--*/
 .screen-shots{
-	padding:5em 0 6em 0;
+  padding:5em 0 6em 0;
+  height: 100%;
 	border-bottom:1px solid #9f9da4;
 }
 .screen-shots h3{
@@ -223,7 +224,7 @@ nav#cbp-spmenu-s2 h3 {
 	margin: 0px;
 	padding: 0px;
 	list-style-type: none;
-	text-align: center;
+  text-align: center;
 }
 .nbs-flexisel-inner {
 	overflow: hidden;
@@ -234,7 +235,8 @@ nav#cbp-spmenu-s2 h3 {
 	padding: 0px;
 	cursor: pointer;
 	position: relative;
-	line-height: 0px;
+  line-height: 0px;
+  height: 100%;
 }
 .nbs-flexisel-item > img {	
 	cursor: pointer;

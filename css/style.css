@@ -241,7 +241,8 @@ nav#cbp-spmenu-s2 h3 {
 .nbs-flexisel-item > img {	
 	cursor: pointer;
 	position: relative;
-	  width: 80%;
+  width: 80%;
+  height: 75%;
   margin: 0 5%;
 }
 /*--team--*/
